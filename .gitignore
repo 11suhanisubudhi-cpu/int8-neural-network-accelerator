@@ -7,3 +7,4 @@ venv/
 *.vcd
 *.fst
 *.log
+*.vvp
